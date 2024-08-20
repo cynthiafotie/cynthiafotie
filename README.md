@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cynthiafotie
-- 👀 I’m interested in IA, MACHIN LEARNING, DATA SCIENTIST, DATA ANALYST AND CYBERSECURITY
+- 👋 Hi, I’m @cynthiafotie i have a degree in applied mathematics and i'm studying for a master MIAGE(computer methods applied to business management)
+- 👀 I’m interested in IA, MACHINE LEARNING, DATA SCIENTIST, DATA ANALYST AND CYBERSECURITY
 - 🌱 I’m currently learning CS50P(INTRODUCTION TO PYTHON), CS50 SQL(INTRODUCTION TO DATA BASE), CS50 CYBERSECURITY
 - 💞️ I’m looking to collaborate on SQL AND PYTHON
 - 📫 How to reach me E-MAIL:fotiecynthia0@gmail.com
